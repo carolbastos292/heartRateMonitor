@@ -1,0 +1,14 @@
+{
+  "name": "heart-rate-monitor",
+  "version": "1.0.0",
+  "description": "Monitoramento do batimento cardiaco",
+  "main": "Gruntfile.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ane Caroline",
+  "license": "ISC"
+}
